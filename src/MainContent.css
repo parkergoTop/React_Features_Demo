@@ -1,0 +1,29 @@
+.hero{
+    background-color:#282D35;;
+    height: 100vh;
+    color: aliceblue;
+    margin:0;
+    padding-top: 0;
+    background-image: url("./react-backgrond.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: 240px;
+    
+}
+
+.content-title{
+    margin-top: 0;
+    padding-top: 60px;
+    padding-left: 50px;
+    font-size: 30px;
+}
+
+.list{
+    font-size: 20px;
+    padding-left: 80px;
+}
+
+.list li::marker{
+    color:#61DAFB;
+} 
+/* ??*/
